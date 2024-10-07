@@ -116,6 +116,7 @@ const GlobalHead = props => {
           content={SEO_BAIDU_SITE_VERIFICATION}
         />
       )}
+      <meta name='baidu-site-verification' content='codeva-HhGPtqtRyr' />
       <meta name='keywords' content={keywords} />
       <meta name='description' content={description} />
       <meta property='og:locale' content={lang} />
