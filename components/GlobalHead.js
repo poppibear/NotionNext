@@ -33,7 +33,7 @@ const GlobalHead = props => {
 
   const SEO_BAIDU_SITE_VERIFICATION = siteConfig(
     'SEO_BAIDU_SITE_VERIFICATION',
-    'codeva-HhGPtqtRyr',
+    null,
     NOTION_CONFIG
   )
 
